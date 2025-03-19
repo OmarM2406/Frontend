@@ -1,4 +1,4 @@
-const backendURL = "https://proyecto-jy9v.onrender.com"; // Cambia por la URL de tu backend
+const backendURL = "https://proyecto-qxqn.onrender.com"; // Cambia por la URL de tu backend
 
 // Obtener los items
 async function fetchItems() {
